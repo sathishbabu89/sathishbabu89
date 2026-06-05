@@ -212,7 +212,7 @@ class sathishbabu89:
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-sathishkumar.babu89%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sathishkumar.babu89@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sathish%20Kumar%20Babu-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathishbabu89)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sathish%20Kumar%20Babu-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathishkumarbabur)
 [![Location](https://img.shields.io/badge/📍-Chennai%2C%20India-38BDAE?style=flat-square)](https://maps.google.com/?q=Chennai,India)
 
 </div>
